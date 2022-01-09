@@ -14,3 +14,6 @@ In order to run it:
 
 
 This submission implements the "Ability to assign/remove inventory items to a named group/collection" feature; As each item is assigned to a named location ("Warehouse 1" or "Warehouse 2").
+
+
+See the ShortDemonstration.mkv video for a short showcase of some of the apps features.
